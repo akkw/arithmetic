@@ -14,7 +14,7 @@ class Solution {
 >算法链接: [字符串中的第一个唯一字符](https://leetcode.cn/leetbook/read/top-interview-questions/xaph0j/)  
 关键字: 队列 哈希表 字符串 计数  
 搜索关键字:  
-作者:qiangzhiwei  
+作者:akka    
 时间复杂度:  
 >>算法分析: 创建一个长为26的字符索引，都填充为-1，如果字符串第一次出现，记录它在字符串中的位置，否则记为-2。
 ```java
